@@ -1,14 +1,14 @@
 {
-    "name": "aliyuncs/aliyun-dysms-php-sdk",
-    "description": "Aliyun SMS SDK for PHP",
-    "keywords": [ "aliyun", "SMS", "sdk" ],
+    "name": "GarenGoh/yii2-ali-sms",
+    "description": "Aliyun SMS for PHP Yii2",
+    "keywords": [ "ali", "sms", "yii2" ],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://www.aliyun.com/product/sms",
+    "homepage": "https://github.com/GarenGoh/yii2-ali-sms.git",
     "authors": [
         {
-            "name": "Aliyuncs",
-            "homepage": "https://www.aliyun.com"
+            "name": "GarenGoh",
+            "email": "garen.goh@qq.com"
         }
     ],
     "require": {
