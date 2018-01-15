@@ -1,10 +1,10 @@
 {
-    "name": "GarenGoh/yii2-ali-sms",
+    "name": "garengoh/yii2-ali-sms",
     "description": "Aliyun SMS for PHP Yii2",
     "keywords": [ "ali", "sms", "yii2" ],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/GarenGoh/yii2-ali-sms.git",
+    "homepage": "https://github.com/garengoh/yii2-ali-sms.git",
     "authors": [
         {
             "name": "GarenGoh",
